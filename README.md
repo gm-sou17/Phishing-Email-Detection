@@ -210,4 +210,4 @@ npm start
 
 ## ⭐ Support
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a ⭐ .
